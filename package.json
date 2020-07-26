@@ -1,5 +1,5 @@
 {
-  "name": "websocket-stream",
+  "name": "ac-websocket-stream",
   "version": "5.5.2",
   "license": "BSD-2-Clause",
   "description": "Use websockets with the node streams API. Works in browser and node",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/maxogden/websocket-stream.git"
+    "url": "https://github.com/audiocodes/websocket-stream"
   },
   "keywords": [
     "websocket",
@@ -19,8 +19,8 @@
     "realtime"
   ],
   "_npmUser": {
-    "name": "maxogden",
-    "email": "max@maxogden.com"
+    "name": "orgads",
+    "email": "orgad.shaneh@audiocodes.com"
   },
   "dependencies": {
     "duplexify": "^3.7.1",
